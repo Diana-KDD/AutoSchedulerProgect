@@ -12,7 +12,7 @@ namespace AutoScheduler.models
     {
         DbSet<Discipline> Disciplines { get; set; } = null!;
         DbSet<StudentGroup> StudentGroups { get; set; } = null!;
-        DbSet<AudienceSpecialization> AudienceSpecializations { get; set; } = null!;
+        DbSet<AudienceSpecialization> AudienceSpecializations { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);

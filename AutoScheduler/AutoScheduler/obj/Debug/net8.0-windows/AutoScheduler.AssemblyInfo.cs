@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoScheduler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3104bac35a92a77addda7a70b902a5da53caa51e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoScheduler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoScheduler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
