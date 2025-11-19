@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AutoScheduler",
+    "\\AutoScheduler\\AutoScheduler",
+    "\\AutoScheduler\\AutoScheduler\\models"
   ],
+  "SelectedNode": "\\AutoScheduler\\AutoScheduler\\models",
   "PreviewInSolutionExplorer": false
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fH/Cd0vW4D8=",
+  "dgSpecHash": "u/KrSc940x4=",
   "success": true,
-  "projectFilePath": "F:\\Проект_расписание\\AutoScheduler\\AutoScheduler\\AutoScheduler.csproj",
+  "projectFilePath": "C:\\Users\\DianaKDD\\source\\repos\\Diana-KDD\\AutoSchedulerProgect\\AutoScheduler\\AutoScheduler\\AutoScheduler.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DianaKDD\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\DianaKDD\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
